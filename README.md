@@ -18,7 +18,7 @@ Shows the spread of churn likelihood across all customers.
 Reveals distinct groups: loyal customers (low probability) and a significant cluster at high risk.
 Business Value: Enables proactive targeting rather than blanket campaigns.
 
-![Churn Probability Distribution](churn_probability_distribution (1).png)
+![Churn Probability Distribution](churn_probability_distribution(1).png)
 
 2. How do we prioritize? - Customer Segmentation by Risk
 Customes are grouped into Low, Medium, and High risk categories.
