@@ -32,7 +32,7 @@ A 5% reduction in churn could retain ~355 customers, translating into ~$219,000 
 A 10% reduction would save ~710 customers, equal to ~$438,000 annually.
 Business Value: Makes the ROI case clear for investing in churn-reduction programs.
 
-![Business Impact Simulation](business_impact_simulation.png)
+![Business Impact Simulation](impact_simulation.png)
 
 **Expected Business Impact**
 By implemneting churn prediction and targeted retention:
