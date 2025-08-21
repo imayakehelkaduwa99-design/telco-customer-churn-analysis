@@ -1,2 +1,2 @@
-# telco-customer-churn-analysis
-A python project predicting customer churn for a Telco dataset using classification models
+pip install -r requirements.txt
+jupyter notebook notebooks/churn_analysis.ipynb
